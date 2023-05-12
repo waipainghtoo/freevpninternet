@@ -1,0 +1,27 @@
+{
+// 
+"Version":"1.12",
+//link for server update
+"Url":"https://github.com/waipainghtoo/freevpninternet/raw/main/net%20free.zip" ,
+"Changelog":"
+ဖိုင်အသစ်တွေရဖို့ အပ်ဒိတ် လုပ်လိုက်ပါဗျာ့
+
+အသုံးပြုနိုင်သောဆင်းကဒ်
+🔰DTAC NOPRO🔰
+🛑TRUE NOPRO 🛑
+💡AIS PLAY💡
+🇱🇷Add US 3File
+
+Server by 🇲🇲Myo Min Tun🇲🇲
+",
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
